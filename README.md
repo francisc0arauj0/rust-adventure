@@ -11,7 +11,7 @@ Learning rust with [rustlings](https://github.com/rust-lang/rustlings)
 ### Exercises
 
 - [X] Intro
-- [ ] Variables
+- [X] Variables
 - [ ] Functions
 - [ ] If
 - [ ] Primitive Types
