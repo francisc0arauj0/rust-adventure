@@ -12,7 +12,7 @@ Learning rust with [rustlings](https://github.com/rust-lang/rustlings)
 
 - [X] Intro
 - [X] Variables
-- [ ] Functions
+- [X] Functions
 - [ ] If
 - [ ] Primitive Types
 - [ ] Vecs
