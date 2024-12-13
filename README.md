@@ -14,7 +14,7 @@ Learning rust with [rustlings](https://github.com/rust-lang/rustlings)
 - [X] Variables
 - [X] Functions
 - [X] If
-- [ ] Primitive Types
+- [X] Primitive Types
 - [ ] Vecs
 - [ ] Move Semantics
 - [ ] Structs
@@ -36,5 +36,9 @@ Learning rust with [rustlings](https://github.com/rust-lang/rustlings)
 - [ ] Clippy
 - [ ] Conversions
 
+### Quizzes
 
+- [X] 1
+- [ ] 2
+- [ ] 3
 
